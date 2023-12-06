@@ -1,0 +1,34 @@
+[
+    {
+        "Id": "62F04CC4-878C-4894-9096-FC671AA0C738",
+        "Question": "A small, round red or black fruit with a large seed inside",
+        "Example":"her mouth was a bright ... red",
+        "Answer":"Cherry",
+        "Translate":"Вишня",
+        "Image":"https://osa-s3.agroinvest.com/test/lab08/cherry.jpg"
+    },
+    {
+        "Id": "62F04CC4-878C-4894-9096-FC671AA0C748",
+        "Question": "A soft, round fruit with red, yellow, or purple skin and a stone in the middle",
+        "Example":"a ... blazer",
+        "Answer":"Plum",
+        "Translate":"Слива",
+        "Image":"https://osa-s3.agroinvest.com/test/lab08/plum.jpg"
+    },
+    {
+        "Id": "62F04CC4-878C-4894-9096-FC671AA0C758",
+        "Question": "A large, round, sweet fruit with a thick, green or yellow skin and a lot of seeds",
+        "Example":"cutting up the ...",
+        "Answer":"Melon",
+        "Translate":"Дыня",
+        "Image":"https://osa-s3.agroinvest.com/test/lab08/melon.jpg"
+    },
+    {
+        "Id": "62F04CC4-878C-4894-9096-FC671AA0C768",
+        "Question": "A large, round, green fruit that is pink inside with a lot of black seeds",
+        "Example":"because ... is low-caloric and it is able to satisfy hunger.",
+        "Answer":"Watermelon",
+        "Translate":"Арбуз",
+        "Image":"https://osa-s3.agroinvest.com/test/lab08/watermelon.jpg"
+    }
+]
